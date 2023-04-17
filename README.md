@@ -1,4 +1,4 @@
-# universitary_projects
+# university_projects
 
 This repository contains reports of some university projects that I have realized.
 
